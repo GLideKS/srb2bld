@@ -1016,7 +1016,7 @@ buildvar() {
         BUILDNAME="Ultimate Zone Builder"
         GITDEFVER="master"
         GITVER="$GITDEFVER"
-        GITURL="https://git.do.srb2.org/STJr/UltimateZoneBuilder.git"
+        GITURL="https://github.com/GLideKS/UltimateGKSZBuilder.git"
 
     elif [ "$BUILD" = "$BUILDPATH/ultimateloweebuilder" ]; then
 
